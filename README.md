@@ -1,5 +1,5 @@
 # myMonitor
-Host monitoring
+Let's monitor :D
 
 ## Was ist myMonitor ??
 
